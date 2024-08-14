@@ -1,0 +1,35 @@
+{
+  "header": {
+    "title": "Welcome to [Your Company Name]",
+    "paragraph": "We offer repair, installation, and maintenance services with trust and quality."
+  },
+  "features": [
+    { "title": "Quick Repairs", "text": "Immediate and efficient service.", "icon": "build" },
+    { "title": "Installations", "text": "Installation services for electronics and furniture.", "icon": "settings" },
+    { "title": "Preventive Maintenance", "text": "Avoid future problems.", "icon": "shield" },
+    { "title": "Custom Service", "text": "Tailored to your needs.", "icon": "person" }
+  ],
+  "about": {
+    "paragraph": "[Your Company Name] is your reliable solution for all repair and maintenance needs.",
+    "Why": ["Experienced Professionals", "Reliable Service"],
+    "Why2": ["Fair Prices", "Satisfaction Guarantee"]
+  },
+  "services": [
+    { "name": "Electrical Repairs", "text": "Ensuring safety and efficiency.", "icon": "electrical" },
+    { "name": "Installation", "text": "Installation services for electronics and furniture.", "icon": "settings" },
+    { "name": "General Maintenance", "text": "Ensuring everything works perfectly.", "icon": "handyman" }
+  ],
+  "testimonials": [
+    { "name": "John Doe", "text": "Excellent service, very professional!" },
+    { "name": "Jane Smith", "text": "Solved all my problems quickly." },
+    { "name": "Carlos Eduardo", "text": "Great experience, I highly recommend!" }
+  ],
+  "contact": {
+    "address": "123 Main Street, City, Country",
+    "phone": "+123 456 7890",
+    "email": "contact@yourcompany.com",
+    "facebook": "[Facebook URL]",
+    "instagram": "[Instagram URL]",
+    "whatsapp": "[WhatsApp URL or number]"
+  }
+}
